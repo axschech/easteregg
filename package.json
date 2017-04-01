@@ -1,0 +1,28 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "This repo uses assets from [PhaserJS tutorials](http://phaser.io)",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^3.2.0",
+    "install": "^0.8.8",
+    "npm": "^4.4.4",
+    "phaser-ce": "^2.7.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axschech/game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axschech/game/issues"
+  },
+  "homepage": "https://github.com/axschech/game#readme"
+}
